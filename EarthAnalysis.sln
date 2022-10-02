@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "EarthAnalysis_Frontend", "EarthAnalysis\EarthAnalysis_Frontend.esproj", "{292A8460-24BC-4B36-8707-B78457C5424E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EarthAnalysis_Backend", "EarthAnalysis_Backend\EarthAnalysis_Backend.csproj", "{EF974D86-D99A-444D-BFC4-F22D0F01AB17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{292A8460-24BC-4B36-8707-B78457C5424E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{292A8460-24BC-4B36-8707-B78457C5424E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{292A8460-24BC-4B36-8707-B78457C5424E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{292A8460-24BC-4B36-8707-B78457C5424E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{292A8460-24BC-4B36-8707-B78457C5424E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{292A8460-24BC-4B36-8707-B78457C5424E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EF974D86-D99A-444D-BFC4-F22D0F01AB17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF974D86-D99A-444D-BFC4-F22D0F01AB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF974D86-D99A-444D-BFC4-F22D0F01AB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF974D86-D99A-444D-BFC4-F22D0F01AB17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7612810E-4ADE-4FCC-8FEE-2EC29D062BFC}
+	EndGlobalSection
+EndGlobal
